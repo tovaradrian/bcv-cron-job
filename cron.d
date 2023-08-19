@@ -1,0 +1,1 @@
+30 8 * * 1-6 /usr/bin/wget --spider "https://bcv-pqbk.onrender.com/send-bcv-message" >/dev/null 2>&1
